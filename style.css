@@ -9,3 +9,27 @@ body{
 	  margin-right: auto;
 	  padding: 20px;
 }
+
+nav{
+	background-color: #e699ff;
+	padding: 3px;
+}
+nav a:hover{
+	color: red;
+	text-decoration: none;
+}
+
+nav a:active{
+	color: white;
+}
+
+nav a{
+	text-decoration: none;
+}
+
+nav li{
+	list-style-type: none;
+	display: inline;
+	padding-right: 150px;
+	font-size: 20px;
+}
